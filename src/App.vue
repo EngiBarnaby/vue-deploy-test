@@ -1,6 +1,9 @@
 <template>
   <div>
     <h2>Сдесь будет сайт для тренировки деплоя</h2>
+    <button>
+      Кнопка для взаймодействия с backend
+    </button>
   </div>
 </template>
 
@@ -8,7 +11,7 @@
 
 export default {
   name: 'App',
-    
+
 }
 </script>
 
